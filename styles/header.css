@@ -17,12 +17,11 @@
     font-family: var(--fonte-logo);
     font-size: 28px;
     font-weight: 700;
-    color: var(--azul-claro);
+    color: var(--azul-escuro);
 }
 
 .cabecalho__logo-final {
     font-weight: 400;
-    font-style: italic;
 }
 
 .cabecalho__pesquisa {
@@ -49,13 +48,17 @@
     font-weight: 600;
     border-radius: 20px;
     padding: .5em 1em;
-    color: var(--azul-claro);
-    border: var(--azul-claro) 2px solid;
+    color: var(--azul-escuro);
+    border: var(--azul-escuro) 2px solid;
 }
 
 .cabecalho-lista__item-botao--azul {
-    background-color: var(--azul-claro);
+    background-color: var(--azul-escuro);
     color: var(--branco);
+}
+
+.cabecalho-lista__item-botao--azul:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 900px) {

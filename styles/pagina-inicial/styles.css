@@ -1,5 +1,5 @@
 .banner {
-    background-image: url("../../img/banner-cliente.png");
+    background-image: url("../../img/banner food.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -12,14 +12,14 @@
 .banner__titulo,
 .conta__titulo {
     font-weight: 600;
-    color: var(--branco);
+    color: var(--preto);
     font-size: 32px;
     line-height: 39px;
 }
 
 .banner__titulo {
     width: 32%;
-    margin: 0 3em
+    margin: 0 3em;
 }
 
 .servicos__titulo,
@@ -38,7 +38,7 @@
 }
 
 .item-servicos__titulo {
-    background-color: var(--preto);
+    background-color: var(--laranja-claro);
     color: var(--branco);
     font-weight: 600;
     font-size: 24px;
@@ -52,7 +52,7 @@
 }
 
 .conta {
-    background-image: url("../../img/banner-gato.png");
+    background-image: url("../../img/banner\ food\ 1.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -72,7 +72,7 @@
     margin-top: .5em;
     width: 50%;
     text-align: center;
-    background: var(--preto);
+    background: var(--azul-escuro);
     border-radius: 20px;
     color: var(--branco);
     text-decoration: none;
@@ -103,7 +103,7 @@
 }
 
 .icone-presente {
-    background-image: url('../../img/Presente.png');
+    background-image: url('../../img/ambiente.png');
 }
 
 .icone-saque {
@@ -111,18 +111,18 @@
 }
 
 .icone-estrela {
-    background-image: url('../../img/Estrela.png')
+    background-image: url('../../img/sustentabilidade.png')
 }
 
 .icone-gato {
-    background-image: url('../../img/Gato.png')
+    background-image: url('../../img/comunidade.png')
 }
 
 .beneficios-lista__titulo {
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    color: var(--azul-claro);
+    color: var(--laranja-claro);
     margin: .5em 0;
 }
 

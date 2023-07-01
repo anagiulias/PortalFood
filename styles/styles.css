@@ -4,9 +4,12 @@
 :root {
     --fonte-principal: 'Montserrat', sans-serif;
     --fonte-logo: 'Inter', sans-serif;
-    --azul-claro: #6BD1FF;
     --preto: #000000;
     --branco: #FFFFFF;
+    --azul-escuro: #2B2A4C;
+    --vermelho: #B31312;
+    --laranja-claro: #EA906C;
+    --branco-claro: #EEE2DE;
 }
 
 body {

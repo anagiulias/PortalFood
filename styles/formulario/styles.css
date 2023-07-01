@@ -32,12 +32,12 @@
 .breadcrumb li {
     display: inline;
     font-size: 16px;
-    color: var(--azul-claro);
+    color: var(--azul-escuro);
 }
 
 .breadcrumb li+li:before {
     padding: 8px;
-    color: var(--azul-claro);
+    color: var(--azul-escuro);
     content: ">";
 }
 
@@ -68,12 +68,11 @@
 
 .campo__escrita {
     display: block;
-    border: 2px solid var(--azul-claro);
+    border: 2px solid var(--azul-escuro);
     border-radius: 20px;
     width: 100%;
     padding: 1em;
     margin-top: .5em;
-
 }
 
 .campo__escrita--menor {
@@ -87,7 +86,7 @@
 
 .formulario__botao,
 .camera__botao {
-    background: var(--azul-claro);
+    background: var(--azul-escuro);
     margin: 2em auto;
     display: block;
     border: none;
@@ -114,7 +113,7 @@
 }
 
 .formulario__texto {
-    margin: 1em 8em;
+    margin: 1em;
 }
 
 .formulario__texto--negrito {
@@ -122,15 +121,16 @@
 }
 
 .formulario__texto-secundario {
-    margin: 2em 6em;
+    margin: 2em;
 }
 
 .mensagem-erro {
-    color: red;
+    color: var(--vermelho);
+    font-weight: bold;
 }
 
 .campo__escrita--erro {
-    border: 2px solid red;
+    border: 2px solid var(--vermelho);
 }
 
 .formulario__mensagem,
