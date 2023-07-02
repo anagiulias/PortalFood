@@ -3,6 +3,9 @@
 <hr>
 <h1 align="center"> ⚇ Portal Food - Formulário ⚇ </h1>
 
+![GitHub Org's stars](https://img.shields.io/github/stars/anagiulias?style=social)
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-<BRIGHTGREEN)
+
 ## Descrição do Projeto
 Formulário de criação de contas, para que o cliente faça sua reserva em um restaurante de macarrão fictício, chamado "Portal Food".
 
