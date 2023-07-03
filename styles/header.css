@@ -33,7 +33,7 @@
 
 .cabecalho__pesquisa::placeholder {
     font-size: 18px;
-    background: url("../img/ícone\ busca.png") no-repeat right center;
+    background: url("../img/ícone-busca.png") no-repeat right center;
 }
 
 .cabecalho-lista__item a {
@@ -50,6 +50,10 @@
     padding: .5em 1em;
     color: var(--azul-escuro);
     border: var(--azul-escuro) 2px solid;
+}
+
+.cabecalho-lista__item-botao--branco:hover {
+    background-color: var(--branco-claro);
 }
 
 .cabecalho-lista__item-botao--azul {

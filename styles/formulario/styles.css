@@ -1,5 +1,9 @@
+.cabecalho-lista__item-botao--branco:hover {
+    background-color: var(--branco-claro);
+}
+
 .banner {
-    background-image: url("../../img/banner\ fome.png");
+    background-image: url("../../img/banner_fome.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -98,6 +102,16 @@
     color: var(--branco);
 }
 
+.formulario__botao:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.camera__botao:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
 .formulario__imagem {
     display: block;
     margin: 2em auto;
@@ -141,6 +155,11 @@
 .formulario__mensagem--sucesso,
 .formulario__camera--exibir {
     display: block;
+}
+
+.social__icone:hover {
+    cursor: pointer;
+    opacity: 0.8
 }
 
 @media screen and (max-width: 900px) {

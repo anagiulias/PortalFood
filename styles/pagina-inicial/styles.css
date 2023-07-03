@@ -1,5 +1,5 @@
 .banner {
-    background-image: url("../../img/banner food.png");
+    background-image: url("../../img/banner_food.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -52,7 +52,7 @@
 }
 
 .conta {
-    background-image: url("../../img/banner\ food\ 1.png");
+    background-image: url("../../img/banner_food1.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -102,19 +102,19 @@
     display: inline-block;
 }
 
-.icone-presente {
+.icone-ambiente {
     background-image: url('../../img/ambiente.png');
 }
 
-.icone-saque {
+.icone-promocao {
     background-image: url('../../img/Saque.png');
 }
 
-.icone-estrela {
+.icone-sustentabilidade {
     background-image: url('../../img/sustentabilidade.png')
 }
 
-.icone-gato {
+.icone-comunidade {
     background-image: url('../../img/comunidade.png')
 }
 
