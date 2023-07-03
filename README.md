@@ -11,6 +11,7 @@ Formulário de criação de contas, para que o cliente faça sua reserva em um r
 
 ## Acesso ao Projeto
 Você pode acessar o projeto, por meio do link: </br>
+https://anagiulias.github.io/PortalFood/
 
 ## Tecnologias utilizadas no projeto
 * HTML
