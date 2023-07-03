@@ -7,7 +7,7 @@
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-<BRIGHTGREEN)
 
 ## Descrição do Projeto
-Formulário de criação de contas, para que o cliente faça sua reserva em um restaurante de macarrão fictício, chamado "Portal Food".
+Formulário de criação de contas, para que o cliente faça sua reserva em um restaurante de macarrão fictício, chamado "Portal Food". Também é possível tirar uma foto, usando o recurso do navegador.
 
 ## Acesso ao Projeto
 Você pode acessar o projeto, por meio do link: </br>
@@ -17,6 +17,9 @@ https://anagiulias.github.io/PortalFood/
 * HTML
 * CSS
 * JavaScript
+
+## Direitos autorais
+As artes da página foram feitas por mim.
 
 ## Pessoas Desenvolvedoras do Projeto 
 | [<img src="https://avatars.githubusercontent.com/u/115855530?v=4" width=115><br><sub>Ana Giulia Santos</sub>](https://github.com/anagiulias)
